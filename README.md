@@ -3,4 +3,4 @@ This repository includes different Data Structure Problems solving in CPP or Pyt
 
 This one mainly includes the problems in Hacker Rank --> Practice --> Data Structure.
 
-HackerRank. [https://www.hackerrank.com/domains/data-structures]
+[HackerRank] https://www.hackerrank.com/domains/data-structures
